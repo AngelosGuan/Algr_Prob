@@ -1,0 +1,1 @@
+Given a sequence of numbers, find all groups of 3 numbers that sum up to 100.
